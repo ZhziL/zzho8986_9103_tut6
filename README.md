@@ -22,4 +22,4 @@
 
 [Link Text](https://www.google.com)
 
-![An image of a cat](http://placekitten.com/200/300)
+![An image of a cat](https://sword-warriors-roblox.fandom.com/wiki/Ikun?file=Ikun_with_no_bg_vect.png)
