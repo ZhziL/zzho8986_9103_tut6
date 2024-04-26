@@ -22,4 +22,4 @@
 
 [Link Text](https://www.google.com)
 
-![An image of a cat](https://sword-warriors-roblox.fandom.com/wiki/Ikun?file=Ikun_with_no_bg_vect.png)
+![An image of a cat](https://static.wikia.nocookie.net/sword-warriors-roblox/images/0/0f/Ikun_with_no_bg_vect.png/revision/latest?cb=20230804194814)
